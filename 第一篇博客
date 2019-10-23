@@ -1,1 +1,19 @@
-10/23 不开心的一天
+2019/10/23 远程操纵Githib（目前还在前端和设计中徘徊）
+git statuse 查看工作区和暂存区的状态
+git config --list 查看配置文件
+git clone 克隆一个远程库
+git commit -m 输入提交说明
+git add 提交
+git push 远程上传
+
+补：mkdir 新建目录
+    touch 创建文件
+    move 移动
+    cat 查看
+    echo=vi 输入
+    pwd 显示绝对地址
+    copy 复制
+    cd 进入目录
+    ls 查看 
+    rm -rf 删除
+    curl -L 下载文件
