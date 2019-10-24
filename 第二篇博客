@@ -1,0 +1,24 @@
+2019/10/24 第二篇博客（html的学习）记单词，记单词，记单词，重要的事说三遍
+a (锚点 anchor)
+form 表单
+input 输入
+button 按钮
+h1 一级标签
+p (paragr段落)
+ul (ul-ordered list 没有顺序的列表)
+ol (ordered list 有顺序的列表)
+small 不重要的字
+strong 重要的字
+span和div（divide 划分）一定要加class
+kbd （keyboard 键盘输入）
+video 放视频
+audio 放音频
+svg 不规则的图形
+nav （导航栏 navigation）
+alt (alternative 可选内容)
+li (列表中的一项 list item)
+main 主要内容
+hr 分割线
+dl （描述列表 description term）
+br 强制换行
+footer 文档中的页脚部分
